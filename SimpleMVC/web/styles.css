@@ -1,0 +1,9 @@
+body, p, td, th {
+	background: #fff;
+	color: #000;
+	font: medium Verdana, Arial, Helvetica, sans-serif;
+}
+
+select {
+	width: 100%;
+}
